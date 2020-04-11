@@ -8,7 +8,7 @@ import {createCssSelector} from '@angular/compiler/src/render3/view/template';
 })
 export class S38MainComponent implements OnInit {
   tasksList = ['sprzątanie', 'gotowanie', 'nauka angulara', 'dupa'];
-  dupaList = ['odbyt', 'gringle', 'hemoroidy', 'kupa', ' dupa'];
+  dList = ['abda', 'asdf', 'fdsa', 'jyol', ' fiqs'];
   constructor() { }
 
   ngOnInit(): void {

@@ -9,7 +9,7 @@ export class S38e185ChildComponent implements OnInit {
 
   @Input() tasks = ['sprzątanie', 'gotowanie', 'nauka angulara'];
   // tslint:disable-next-line:no-input-rename
-  @Input('taskiFekalne') tasks2;
+  @Input('dTaskss') dTasks;
   constructor() { }
 
   ngOnInit(): void {
