@@ -16,5 +16,6 @@ export class S38MainComponent implements OnInit {
 
   selected($event: string): void {
     console.log($event);
+    // :)
   }
 }
